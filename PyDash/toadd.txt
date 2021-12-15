@@ -1,0 +1,17 @@
+Modulo operator                                                             Done
+Remove Clear and Cls Functions                                              Done
+Dictionary                                                                  Not Started
+Classes and Objects                                                         Not Started
+Allowing to change an array element by index                                Not Started
+Random numbers                                                              Not Started
+Math related functions                                                      Not Started
+Play sounds                                                                 Not Started
+Display Images                                                              Not Started
+File system with OS and Shutil and Send2Trash and ZipFile                   Not Started
+Access Excel data                                                           Not Started
+Access SQLite3                                                              Not Started
+Draw with Turtle                                                            Not Started
+Graphs with MatPlotLib and NumPy                                            Not Started
+Read JSON and CSV                                                           Not Started
+Make the file extension '.pydash'                                           Not Started
+Make a tons of exaamples                                                    Not Started

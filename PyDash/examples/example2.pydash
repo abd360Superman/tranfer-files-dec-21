@@ -1,0 +1,5 @@
+# Check for odd or even
+FUN oddeven(num) -> IF num % 2 == 0 THEN "even" ELSE "odd"
+
+PRINT("Enter a number to see whether it is Odd or Even")
+PRINT(oddeven(INPUT_INT()))
